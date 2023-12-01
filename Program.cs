@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*
+Ramdomize and assign zoo tour to different classes by using Ramdon class and 2D arrays
+*/
 
 string[] pettingZoo =
 {
